@@ -1,0 +1,8 @@
+{
+  "name": "run-coach",
+  "version": "0.1.0",
+  "description": "Adaptive running and strength coach on the Strava and COROS connectors: plans, check-ins, changes that wait for your accept, and structured workouts on your watch.",
+  "author": { "name": "Brendan Green" },
+  "license": "MIT",
+  "keywords": ["running", "training plan", "strava", "coros", "strength"]
+}
